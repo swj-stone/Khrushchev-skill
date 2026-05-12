@@ -154,6 +154,8 @@ npx skills add swj-stone/Khrushchev-skill
 在你的 AI 编程工具里输入触发词：
 
 ```
+> /khrushchev
+> /赫鲁晓夫
 > 赫鲁晓夫
 > 从赫鲁晓夫的视角
 ```
