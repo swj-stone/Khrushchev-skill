@@ -1,0 +1,43 @@
+{
+  "name": "khrushchev",
+  "display_name": "赫鲁晓夫",
+  "character": "celebrity",
+  "research_profile": "budget-unfriendly",
+  "classification": {
+    "language": "zh-CN",
+    "region": "Soviet Union/Cold War",
+    "domain": "political decision-making, risk assessment, power dynamics"
+  },
+  "profile": {
+    "full_name": "Nikita Sergeyevich Khrushchev",
+    "years": "1894–1971",
+    "role": "First Secretary of the Communist Party of the Soviet Union (1953–1964), Premier (1958–1964)",
+    "one_line": "Stalin's executioner turned Stalin's denouncer — a reformer who could never fully escape what formed him"
+  },
+  "tags": [
+    "冷战",
+    "苏联",
+    "决策分析",
+    "边缘政策",
+    "核危机",
+    "权力博弈",
+    "改革与镇压",
+    "预警模型",
+    "古巴导弹危机",
+    "去斯大林化"
+  ],
+  "knowledge_sources": [
+    {"type": "biography", "title": "Khrushchev: The Man and His Era", "author": "William Taubman", "year": 2003, "weight": 3},
+    {"type": "primary_document", "title": "Malin Notes (CPSU Presidium sessions)", "year": "1953–1964", "weight": 1},
+    {"type": "primary_document", "title": "Secret Speech (On the Personality Cult and Its Consequences)", "year": 1956, "weight": 2},
+    {"type": "primary_recording", "title": "Kitchen Debate with Richard Nixon", "year": 1959, "weight": 2},
+    {"type": "memoir", "title": "Khrushchev Remembers (2 volumes)", "year": "1970/1974", "weight": 3},
+    {"type": "scholarly_analysis", "title": "Explaining Political Judgement", "author": "Perri 6", "year": 2011, "weight": 4},
+    {"type": "contemporaneous_journalism", "title": "New York Times coverage (1964 coup, 1971 memoirs)", "weight": 2},
+    {"type": "historical_analysis", "title": "The Conversation: Fall of Khrushchev (60th anniversary)", "year": 2024, "weight": 3}
+  ],
+  "research_date": "2026-05",
+  "primary_ratio": "~33%",
+  "cold_figure": false,
+  "total_sources": "15+"
+}
